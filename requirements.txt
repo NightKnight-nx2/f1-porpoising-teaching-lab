@@ -1,0 +1,4 @@
+streamlit>=1.36
+scipy>=1.10
+numpy
+matplotlib
