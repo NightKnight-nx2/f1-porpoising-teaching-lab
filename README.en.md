@@ -18,6 +18,8 @@ phenomenon seen in modern ground-effect Formula 1 cars — by changing live para
 Since this is a Streamlit app, a static screenshot only captures a fraction of the experience
 (sliders, the live animation, and the trajectory traced on the aero curve are all interactive).
 
+https://f1-porpoising-teaching-lab.streamlit.app
+
 ---
 
 ## 🧠 What is "porpoising"?
