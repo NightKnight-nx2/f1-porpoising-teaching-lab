@@ -19,6 +19,8 @@ Bu bir Streamlit uygulaması olduğundan statik bir ekran görüntüsü deneyimi
 kısmını yansıtır (kaydırıcılar, canlı animasyon, aero eğrisi üzerindeki yörünge gibi etkileşimli
 unsurlar statikte kaybolur).
 
+https://f1-porpoising-teaching-lab.streamlit.app
+
 ---
 
 ## 🧠 Nedir bu "porpoising"?
